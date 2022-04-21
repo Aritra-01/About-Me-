@@ -12,7 +12,7 @@
 - ɪ ʟɪᴋᴇ ᴛᴏ ʟᴇᴀʀɴ ɴᴇᴡ ᴛʜɪɴɢs
 - ᴍᴏꜱᴛ ᴏꜰ ᴍʏ ʀᴇᴘᴏꜱɪᴛᴏʀɪᴇꜱ ᴀʀᴇ ꜰᴏʀ ᴛᴇʟᴇɢʀᴀᴍ
 
-### [![Website](https://img.shields.io/website?label=Aritra-01.me&style=for-the-badge&url=https%3A%2F%2FAritra-01.me)](https://aritracloud.aritrasahoo.workers.dev/0:/)
+### [![Website](https://img.shields.io/website?label=Aritra-01.me&style=for-the-badge&url=https%3A%2F%2FAritra's Cloud)](https://aritracloud.aritrasahoo.workers.dev/0:/)
 
 ### **ᴄᴏɴᴛᴀᴄᴛ ᴡɪᴛʜ ᴍᴇ**
 [![ᴛᴇʟᴇɢʀᴀᴍ](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/AritraSpeaketh) 
