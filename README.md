@@ -49,4 +49,4 @@
 
 
 ## 🎶 Spotify
-[![Spotify](https://spotnow.vercel.app/api/spotify)](https://open.spotify.com/user/aritra)
+[![Spotify](https://spotnow.vercel.app/api/spotify)](https://open.spotify.com/user/BQBlyop4aJ6UlYinIeysukYHftZU8pEbiZIe8EVhqvPo_4txtYYTqntT0JjjRpPL-3qX_v4os6z7evoYBru087TM7lvuTTHv8W2k_NrAyQ0iqoygOV_ZzShY_Y6dCZ_YHRJPgC81P3_poqlYSxxc0B1N_Yw78cqWDe42FjQbhXyv)
