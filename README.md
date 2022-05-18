@@ -49,4 +49,4 @@
 
 
 ## 🎶 Spotify
-[![Spotify](https://spotnow.vercel.app/api/spotify)](https://open.spotify.com/user/omnitenebris)
+[![Spotify](https://spotnow.vercel.app/api/spotify)](https://open.spotify.com/user/aritra)
