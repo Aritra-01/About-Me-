@@ -1,91 +1,65 @@
-### ʜᴇʏ ᴛʜᴇʀᴇ  <img src="https://github.com/Aritra-01/Aritra-01/blob/d23cd9bacb47d90d99c9ecdb0bf7b7228a08e73d/Assets/Hi.gif" width="29px">
-**𝗜'𝗠 <** Aritra Sahoo **>🥀 자♡•°**
+<h1 align="center">Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"  width="30px"> (नमस्ते), I'm Vaibhav Agrawal</h1> <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<p align="left"> <a href="https://github.com/Vaibhav-08"><img src="https://komarev.com/ghpvc/?username=Vaibhav-08&label=Profile%20views&color=0e75b6&style=flat" alt="Vaibhav-08" /></a> </p>
 
-<div align="center">
-<img alt="GIF" align="center" src="https://github.com/Aritra-01/Aritra-01/blob/9deec91d7779d4a617a9a07e7dd1999cde2217c4/Assets/20220123_2057531.gif">
-</div>
-
-<p align="center">
-</p>
-
-- ɪ'ᴍ ʟᴇᴀʀɴɪɴɢ ɢɪᴛ & ɢɪᴛʜᴜʙ
-- ɪ ʟɪᴋᴇ ᴛᴏ ʟᴇᴀʀɴ ɴᴇᴡ ᴛʜɪɴɢs
-- ᴍᴏꜱᴛ ᴏꜰ ᴍʏ ʀᴇᴘᴏꜱɪᴛᴏʀɪᴇꜱ ᴀʀᴇ ꜰᴏʀ ᴛᴇʟᴇɢʀᴀᴍ
-
-### [![Website](https://img.shields.io/website?label=Aritra-01.me&style=for-the-badge&url=https%3A%2F%2FAritra'sCloud)](https://aritracloud.aritrasahoo.workers.dev/0:/)
-
-### **ᴄᴏɴᴛᴀᴄᴛ ᴡɪᴛʜ ᴍᴇ**
-[![ᴛᴇʟᴇɢʀᴀᴍ](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/AritraSpeaketh) 
-<br>
-[![ɪɴsᴛᴀɢʀᴀᴍ](https://img.shields.io/badge/instagram-black.svg?style=for-the-badge&logo=instagram)](https://t.me/pratheek06) 
-<br>
-[![ʏᴏᴜᴛᴜʙᴇ](https://img.shields.io/badge/youtube-red.svg?style=for-the-badge&logo=youtube)](https://m.youtube.com/channel/UCAEUvFcdMmq8TDicEMM7wfA) 
-<br>
-
-### ᴘʀᴏғɪʟᴇ ᴠɪᴇᴡs
-</p>
-
-![Profile views](https://komarev.com/ghpvc/?username=Aritra-01&color=blue&style=flat-square&label=Profile+Views)
-
-![Repo views](https://img.shields.io/github/watchers/Aritra-01/Aritra-01.svg)
-
-<details>	
-  <summary><b>🎧 ɴᴏᴡ ᴘʟᴀʏɪɴɢ:</b></summary>
-
-&nbsp; <br> ![Spotify recently played](https://spotify-github-profile.vercel.app/api/view.svg?uid=l5ffa2lqtxn7tk24jwwr29ux6&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=l5ffa2lqtxn7tk24jwwr29ux6&background_color=0d1117&border_color=ffffff)
-
-  </td>
-  <td width="50%">
-</details>
-
-### sᴛᴀᴛs
-
-<details>	
-  <summary><b>⚡ Github Streaks:</b></summary>
-<p align="center">
-    <a href="https://github.com/PratheekXD/PratheekXD">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Aritra's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Aritra-01&theme=black-ice&hide_border=true&stroke=0000&background=black"/>
+<details>
+  <summary><b>:standing_man: &nbsp;Connect with me</b></summary>
+  <br/>
+<p align="left">
+    <a href="https://t.me/vaibhav_08">
+        <img height="35px" src="https://img.icons8.com/fluent/48/000000/telegram-app.png" />
+    </a>
+    <a href="https://api.whatsapp.com/send/?phone=918285775466&text&app_absent=0">
+        <img height="35px" src="https://img.icons8.com/color/48/000000/whatsapp--v5.png"/>
+    </a>
+    <a href="https://facebook.com/mynameisvaibhav">
+        <img height="35px" src="https://img.icons8.com/fluent/48/000000/facebook-new.png" />
+    </a>
+    <a href="https://instagram.com/herevaibhav/">
+        <img height="35px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />
+    </a>
+    <a href="https://twitter.com/Vaibhav_08">
+        <img height="35px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />
+    </a>
+    <a href="mailto:vaibhavagjls@gmail.com">
+        <img height="35px" src="https://img.icons8.com/color/48/000000/gmail-new.png" />
+    </a>
+    <a href="https://github.com/Vaibhav-08">
+        <img height="35px" src="https://img.icons8.com/ios-filled/50/000000/github.png" />
     </a>
 </p>
 </details>
 
-<details>	
-  <summary><b>🏆 Github Awards:</b></summary>
-  <img src = "https://github-profile-trophy.vercel.app/?username=Aritra-01&theme=black-ice&hide_border=true&stroke=0000&background=black">
+<details>
+  <summary><b>:v: &nbsp;Support me</b></summary>
+  <br/>
+    <a href="https://upier.org/pay?vpa=8285775466@ybl&amount=100">
+        <img height="40px" src="https://upload.wikimedia.org/wikipedia/commons/archive/e/e1/20200901100646%21UPI-Logo-vector.svg" />
+    </a>
+  </p>
+  
 </details>
 
-<details>	
-  <summary><b>🔥 Github Stats:</b></summary>
-
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=Aritra-01&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/Aritra-01)
-
+<details>
+  <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
+  <br/>
+  <a href="https://github.com/Vaibhav-08">
+    <p align="left"">
+        <img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=Vaibhav-08&theme=ayu-mirage&hide_border=true" />
+    </p>
+   </a>
 </details>
 
-<details>	
-  <summary><b>🚀 Top Language:</b></summary>
+  <a href="https://github.com/Vaibhav-08">
+    <p align="left"">
+        <img height="175px" src="https://github-readme-stats.vercel.app/api?username=Vaibhav-08&count_private=False&show_icons=true&title_color=30F229&icon_color=F2F407&text_color=F9F9F9&bg_color=1F222E&hide_border=true" /> 
+    </p>
+  </a> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aritra-01&layout=compact&theme=chartreuse-dark)](https://github.com/Aritra-01)
 
-</details>
+### Contribution Graph:
 
-<details>	
-  <summary><b>✨ GitHub Activity Graph:</b></summary>
+[![Vaibhav's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Vaibhav-08&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)](https://github.com/vaibhav_08)
 
-[![Aritra's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Aritra-01&theme=chartreuse-dark)](https://github.com/Aritra-01)
 
-</details>
-
-### ʀᴇɢᴀʀᴅs
-<p align="center">
-  <a href="https://github.com/Aritra-01" target="_blank">
-    <!-- <img src="https://github.com/PratheekXD/PratheekXD/blob/main/Assets/Hello%20world.gif" width="450"> -->
-    <!-- <img src="https://svg-banners.vercel.app/api?type=glitch&text1=𝑻𝒉𝒂𝒏𝒌𝒚𝒐𝒖 𝑭𝒐𝒓 𝑽𝒊𝒔𝒊𝒕𝒊𝒏𝒈 𝑴𝒚 𝑷𝒓𝒐𝒇𝒊𝒍𝒆 ❣️🥀&width=2000&height=100" width="450"> -->
-    <img src="https://svg-banners.vercel.app/api?type=typeWriter&text1=𝑻𝒉𝒂𝒏𝒌𝒚𝒐𝒖 𝑭𝒐𝒓 𝑽𝒊𝒔𝒊𝒕𝒊𝒏𝒈 𝑴𝒚 𝑷𝒓𝒐𝒇𝒊𝒍𝒆 ❣️🥀&width=700&height=100" width="700">
-  </a>
-</p>
-
-<p align="center">
-  <code>
-  © 2022 - Made With ❣️ By Aritra
-</code>
-</p>
+## 🎶 Spotify
+[![Spotify](https://spotnow.vercel.app/api/spotify)](https://open.spotify.com/user/aub2uxtr80of0vk3og1uhs3hf)
