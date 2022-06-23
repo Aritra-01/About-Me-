@@ -14,7 +14,7 @@
     <a href="https://instagram.com/my_name_is_aritra/">
         <img height="35px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />
     </a>
-    <a href="https://twitter.com/Aritra_Sahoo">
+    <a href="https://twitter.com/Aritra_001">
         <img height="35px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />
     </a>
     <a href="mailto:contairockers2020@gmail.com">
