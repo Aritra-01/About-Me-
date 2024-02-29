@@ -45,7 +45,7 @@
 
 ### Contribution Graph:
 
-[![Vaibhav's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Aritra-01&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)](https://github.com/Aritra-01)
+[![Aritra's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Aritra-01&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)](https://github.com/Aritra-01)
 
 
 ## 🎶 Spotify
