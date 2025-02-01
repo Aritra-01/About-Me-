@@ -8,7 +8,7 @@
     <a href="https://t.me/AritraSpeaketh">
         <img height="35px" src="https://img.icons8.com/fluent/48/000000/telegram-app.png" />
     </a>
-    <a href="https://facebook.com/aritrasahoo">
+    <a href="https://facebook.com/aritra.sahoo.3576">
         <img height="35px" src="https://img.icons8.com/fluent/48/000000/facebook-new.png" />
     </a>
     <a href="https://instagram.com/my_name_is_aritra/">
